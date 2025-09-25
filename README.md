@@ -105,8 +105,8 @@ Output (`output_testFile.txt`):
 ---
 
 ## 🤝 Contributors
-* **Reza Paktinat**
-* ** Seyed Mohammad Ebrahim Mosavi**
+*  Reza Paktinat
+*  Seyed Mohammad Ebrahim Mosavi
 
 
 ---
